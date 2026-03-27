@@ -1,11 +1,26 @@
-# 💫 About Me:
-🔭 I'm currently working on AI projects  
-👯 I'm looking to collaborate on AI/ML projects, workflow automation tools, and open-source web apps  
-🤝 I'm looking for help with building advanced n8n automation workflows and integrating local LLMs via Ollama  
-🌱 I'm currently learning OCI Generative AI, AI/ML Fundamentals, and the OCI Data Science Platform  
-💬 Ask me about local AI with Ollama, workflow automation with n8n, Windows desktop customization with Rainmeter, and JavaScript projects  
-⚡ Fun fact: I run AI models locally on my own machine and automate my daily tasks using self-hosted tools — no cloud dependency needed!  
+<h1 align="center">Hi 👋, I'm Hemanth</h1>
+<h3 align="center">🎓 AIML Student @ Anurag University | 🤖 AI Builder | ⚡ Automation Enthusiast</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+%7C+ML+Student;Building+Local+AI+Projects;Automation+with+n8n;Learning+Everyday+⚡" />
+</p>
+
+---
+
+## 🧠 About Me
+- 🎓 First-year **AIML student at Anurag University**
+- 🔭 Currently building **AI + Automation projects**
+- 🤖 Running **local AI models using Ollama**
+- ⚡ Creating **workflow automation using n8n**
+- 🌱 Learning **AI/ML fundamentals + OCI Generative AI**
+- 🎯 Goal: Become a **skilled AI developer & problem solver**
+
+---
+
+## 🚀 What I'm Working On
+- 🤖 **Local AI Chatbot** (Ollama + Web UI)
+- ⚡ **Smart Automation Workflows** (n8n)
+- 📊 **Student Productivity Dashboard** (CGPA + goals tracker)
 ---
 
 ## 🌐 Socials:
