@@ -8,7 +8,7 @@
 ---
 
 ## 🧠 About Me
-- 🎓 First-year **AIML student at Anurag University**
+- 🎓 Second-year **AIML student at Anurag University**
 - 🔭 Currently building **AI + Automation projects**
 - 🤖 Running **local AI models using Ollama**
 - ⚡ Creating **workflow automation using n8n**
